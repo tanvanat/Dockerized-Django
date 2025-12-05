@@ -1,2 +1,1 @@
-# docker-demo-api-app
-demo-app-setup
+# Build a website using Django then turned into Docker file
